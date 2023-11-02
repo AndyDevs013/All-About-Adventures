@@ -23,7 +23,7 @@ function App() {
       </div>
       <div className="centered-svg"></div>
       <div className="rights">
-        "Copyright © 2023 All About Adventure. All Rights Reserved."
+        Copyright © 2023 All About Adventure. All Rights Reserved.
       </div>
     </div>
   );

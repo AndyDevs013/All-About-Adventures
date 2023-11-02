@@ -1,5 +1,6 @@
 {
   "name": "allaboutadventures",
+  "homepage": "https://www.allaboutadventure.co.za",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

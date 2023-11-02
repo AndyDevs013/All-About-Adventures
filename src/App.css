@@ -9,11 +9,11 @@
 
 .app-logo {
   display: flex;
-  height: 25vh; /* Ensure full viewport height */
+  height: 25vh;
   margin-left: 5vh;
-  /* Set a maximum width for the logo */
-  max-width: 15%; /* Adjust the size as needed */
-  overflow: hidden; /* Prevent content overflow */
+
+  max-width: 15%;
+  overflow: hidden;
 }
 
 .social-links {
@@ -39,7 +39,7 @@
   background-size: 50%;
 }
 .rights {
-  font: normal normal normal 15px/64px Karla;
+  font: Karla;
   position: absolute;
   bottom: 10px;
   left: 0;
