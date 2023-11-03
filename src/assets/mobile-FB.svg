@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.323" height="27.323" viewBox="0 0 27.323 27.323">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="27.323" height="27.323" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="mobile_FB" data-name="mobile FB" clip-path="url(#clip-path)">
+    <path id="Path_22" data-name="Path 22" d="M22.444,27.323H4.879A4.879,4.879,0,0,1,0,22.444V4.879A4.879,4.879,0,0,1,4.879,0H22.444a4.879,4.879,0,0,1,4.879,4.879V22.444a4.879,4.879,0,0,1-4.879,4.879" transform="translate(0 0)" fill="#d75c33"/>
+    <path id="Path_23" data-name="Path 23" d="M18.827,25.9h3.325V17.568h2.321l.247-2.789H22.152V13.191c0-.657.133-.917.768-.917h1.8V9.38h-2.3c-2.474,0-3.59,1.09-3.59,3.176v2.223H17.1V17.6h1.73Z" transform="translate(-7.247 -3.976)" fill="#fff"/>
+  </g>
+</svg>
